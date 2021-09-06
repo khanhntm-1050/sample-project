@@ -1,0 +1,12 @@
+puts "Hello World!"
+length = 8
+width = 9
+area = length * width
+name = Khanh
+age = 31
+puts "My name is #{name}. I'm #{age} year old."
+score = 90
+if score > 80
+puts "よくできました"
+end
+
